@@ -1,0 +1,6 @@
+[submodule "stac"]
+	path = stac
+	url = git@github.com:diegoaldarondo/stac.git
+[submodule "npmp_embedding"]
+	path = npmp_embedding
+	url = git@github.com:diegoaldarondo/npmp_embedding.git
